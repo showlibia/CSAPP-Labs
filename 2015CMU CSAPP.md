@@ -1,15 +1,6 @@
----
-title: CMU CS:APP笔记#1
-category: cs
-tag: 
- - csapp
-id: 12
-date: 2023-9-12
----
-
 ## Bits,Bytes, and Integer
 
-#### Logic Operations inC
+#### Logic Operations in C
 
 在讲到这一部分内容时，PPT上展示了一个例子
 
