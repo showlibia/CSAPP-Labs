@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 
-- [2015CMU CSAPP](/2015CMU CSAPP.md)
+- [2015CMU CSAPP](https://github.com/showlibia/CSAPP-Labs/blob/main/2015CMU%20CSAPP.md)
 
 
 
